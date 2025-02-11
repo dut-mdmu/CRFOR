@@ -23,6 +23,10 @@ run
 ```
 python CRFOR.py
 ```
+or
+```
+python CRFOR_t.py
+```
 
 ## Citation
 ```
